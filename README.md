@@ -1,21 +1,20 @@
-### Hi there! I'm Adrian Muñoz 👋
+# Hi there! I'm Adrian Muñoz 👋
 
-Welcome to my GitHub profile! I'm a software engineer with a focus on full-stack development, robotics, and machine learning. [cite_start]I am currently pursuing a BS/MS in Electrical & Computer Engineering at Carnegie Mellon University[cite: 6, 7], and I am passionate about leveraging technology to build robust and intelligent systems that solve real-world problems.
+I'm a software engineer with a focus on full-stack development, robotics, and machine learning. I am currently pursuing a BS/MS in Electrical & Computer Engineering at Carnegie Mellon University, and I am passionate about building robust and intelligent systems that solve real-world problems.
 
 ### 🚀 About Me
 
-* **🎓 Education**: B.S./M.S. in Electrical & Computer Engineering, Minor in Robotics at Carnegie Mellon University | [cite_start]Expected Graduation: May 2026 [cite: 6, 7, 9]
+* **🎓 Education**: B.S./M.S. in Electrical & Computer Engineering, Minor in Robotics at Carnegie Mellon University | Expected Graduation: May 2026
 * **💻 Experience**:
-    * [cite_start]**Atlassian** (May 2025 - Present): Software Engineer Intern [cite: 12, 13]
-        * [cite_start]Developed a full-stack admin UI with React and Spring Boot to streamline backend operations for product release tracks[cite: 14].
-        * [cite_start]Reduced time required for on-call operations by 30-50%, saving each engineer 1-2 hours per week[cite: 14].
-    * [cite_start]**Outlier** (May 2024 - July 2024): AI Software Engineer [cite: 15]
-        * [cite_start]Developed 10-15 Python prompts weekly involving pandas and NumPy to train and challenge coding models effectively[cite: 15].
-        * [cite_start]Validated code functionality and compliance with coding standards using automated tools and manual checks[cite: 15].
-    * [cite_start]**Amazon** (May 2023 - August 2023): Software Development Engineer Intern [cite: 16]
-        * [cite_start]Designed a Java service to access S3 files and compute key metrics for over 11,000 ASIN records[cite: 16].
-        * [cite_start]Developed AWS Lambda functions to link DynamoDB to a Quicksight dashboard, streamlining data analysis for 8 SDEs & PMs[cite: 16].
-* **🌱 Learning**: Always eager to learn new technologies and improve my existing skills. [cite_start]Currently diving deeper into Intelligent Robot Systems[cite: 10], distributed systems, and machine learning applications.
+    * **Atlassian** (May 2025 - Present): Software Engineer Intern
+        * Developed a full-stack admin UI with React and Spring Boot to streamline backend operations for product release tracks.
+        * Reduced time required for on-call operations by 30-50%, saving each engineer 1-2 hours per week.
+    * **Outlier** (May 2024 - July 2024): AI Software Engineer
+        * Developed 10-15 Python prompts weekly involving pandas and NumPy to train and challenge coding models effectively.
+        * Validated code functionality and compliance with coding standards using automated tools and manual checks.
+    * **Amazon** (May 2023 - August 2023): Software Development Engineer Intern
+        * Designed a Java service to access S3 files and compute key metrics for over 11,000 ASIN records.
+        * Developed AWS Lambda functions to link DynamoDB to a Quicksight dashboard, streamlining data analysis for 8 SDEs & PMs.
 
 ### 🛠️ Technologies & Tools
 
