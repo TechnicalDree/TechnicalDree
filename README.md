@@ -1,11 +1,11 @@
-# Hi there! I'm Adrian Muñoz 👋
+# Hi there! I'm Adrian Muñoz
 
 I'm a software engineer with a focus on full-stack development, robotics, and machine learning. I am currently pursuing a BS/MS in Electrical & Computer Engineering at Carnegie Mellon University, and I am passionate about building robust and intelligent systems that solve real-world problems.
 
-### 🚀 About Me
+### About Me
 
-* **🎓 Education**: B.S./M.S. in Electrical & Computer Engineering, Minor in Robotics at Carnegie Mellon University | Expected Graduation: May 2026
-* **💻 Experience**:
+* **Education**: B.S./M.S. in Electrical & Computer Engineering, Minor in Robotics at Carnegie Mellon University | Expected Graduation: May 2026
+* **Experience**:
     * **Atlassian** (May 2025 - Aug 2025): Software Engineer Intern
         * Developed a full-stack admin UI with React and Spring Boot to streamline backend operations for product release tracks.
         * Reduced time required for on-call operations by 30-50%, saving each engineer 1-2 hours per week.
@@ -16,7 +16,7 @@ I'm a software engineer with a focus on full-stack development, robotics, and ma
         * Designed a Java service to access S3 files and compute key metrics for over 11,000 ASIN records.
         * Developed AWS Lambda functions to link DynamoDB to a Quicksight dashboard, streamlining data analysis for 8 SDEs & PMs.
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
