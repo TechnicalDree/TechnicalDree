@@ -4,7 +4,7 @@ I'm a software engineer with a focus on full-stack development, robotics, and ma
 
 ### About Me
 
-* **Education**: B.S./M.S. in Electrical & Computer Engineering, Minor in Robotics at Carnegie Mellon University | Expected Graduation: May 2026
+* **Education**: B.S./M.S. in Electrical & Computer Engineering, Minor in Robotics at Carnegie Mellon University
 * **Experience**:
     * **Atlassian** (May 2025 - Aug 2025): Software Engineer Intern
         * Developed a full-stack admin UI with React and Spring Boot to streamline backend operations for product release tracks.
